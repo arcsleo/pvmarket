@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./Wallet.css";
 
 function Wallet(props: any) {
