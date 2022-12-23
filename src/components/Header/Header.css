@@ -1,0 +1,8 @@
+.HeaderWrapper {
+  height: 54px;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  padding-left: 50px;
+  border-bottom: 0.25px solid lightgrey;
+}

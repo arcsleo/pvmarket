@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.ProfileWrapper {
+  width: 100%;
+}
+.ProfileHeader {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 29.18px;
+  font-style: normal;
+  color: #3c3644;
+  text-align: left;
+}
+.ProfileContent {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-top: 45px;
+}
+.ProfileText {
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 18.2398px;
+  font-weight: 400;
+  text-align: left;
+}
+.ProfileInput {
+  margin-top: 15px;
+  float: left;
+  width: 75%;
+  outline: none;
+  height: 35px;
+  border: 1px solid #d4d4d4;
+  border-radius: 7px;
+  padding: 5px;
+}
+.ProfileBox {
+  width: 50%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.SubmitButton {
+  width: 75%;
+}
+.SubmitButton {
+  width: 75%;
+  float: left;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 7px;
+  margin-top: 30px;
+  background: #008753;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: "Poppins";
+  cursor: pointer;
+}

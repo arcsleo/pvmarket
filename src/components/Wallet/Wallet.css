@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.ProfileWrapper {
+  width: 100%;
+}
+.cancelButton {
+  cursor: pointer;
+}
+.ProfileHeader {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 29.18px;
+  font-style: normal;
+  color: #3c3644;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.walletText {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 29.18px;
+  font-style: normal;
+  color: #3c3644;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+}
+.ProfileContent {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-top: 45px;
+}
+.ProfileText {
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 18.2398px;
+  font-weight: 400;
+  text-align: left;
+}
+.ProfileInput {
+  margin-top: 15px;
+  float: left;
+  width: 75%;
+  outline: none;
+  height: 35px;
+  border: 1px solid #d4d4d4;
+  border-radius: 7px;
+  padding: 5px;
+}
+.ProfileBox {
+  width: 50%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.CardWrapper {
+  display: flex;
+  align-items: center;
+  border: 0.44px solid lightgrey;
+  padding: 5px;
+  width: 90%;
+  outline: none;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+.cardsvgs {
+  margin: 0px 5px;
+}
+.CardNumber {
+  border: none;
+  width: 64%;
+  font-size: 21px;
+  font-weight: 300;
+  outline: none;
+}
+.CardMonth {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cardYear {
+  display: flex;
+  align-items: center;
+  border: 0.44px solid lightgrey;
+  padding: 5px;
+  width: 50%;
+  outline: none;
+  font-size: 21px;
+  font-weight: 300;
+  outline: none;
+  padding-left: 20px;
+}
+.cardDetailBox {
+  display: flex;
+  align-items: center;
+  border: 0.44px solid lightgrey;
+  padding: 5px;
+  width: 90%;
+  outline: none;
+  font-size: 21px;
+  font-weight: 300;
+  outline: none;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.cardcvc {
+  display: flex;
+  align-items: center;
+  border: 0.44px solid lightgrey;
+  padding: 5px;
+  width: 50%;
+  outline: none;
+  font-size: 21px;
+  font-weight: 300;
+  outline: none;
+  padding-left: 20px;
+}
+.CardDetails {
+  margin-top: 15px;
+  display: flex;
+  width: 80%;
+}
+.SubmitButton {
+  width: 75%;
+}
+.SubmitButton {
+  width: 75%;
+  float: left;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 7px;
+  margin-top: 30px;
+  background: #008753;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: "Poppins";
+  cursor: pointer;
+}

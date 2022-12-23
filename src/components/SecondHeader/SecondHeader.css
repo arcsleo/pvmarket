@@ -1,0 +1,16 @@
+.secondHeaderWrapper {
+  height: 45px;
+  display: flex;
+  width: 100%;
+  background-color: rgba(148, 206, 219, 1);
+}
+.Headericons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  padding-right: 75px;
+}
+.HeadericonBox {
+  margin-left: 25px;
+}
