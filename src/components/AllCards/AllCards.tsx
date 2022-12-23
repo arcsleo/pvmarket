@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./AllCards.css";
 import Wallet from "../Wallet/Wallet";
 
